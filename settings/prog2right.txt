@@ -1,0 +1,10 @@
+volumeControlRegister: 0dB
+IIR_L1: mute
+IIR_L2: lp:4000Hz
+IIR_L3: mute
+IIR_L4: hp:4000Hz,vol:-3dB
+IIR_R1: mute
+IIR_R2: lp:4000Hz
+IIR_R3: mute
+IIR_R4: hp:4000Hz, vol:-3dB
+

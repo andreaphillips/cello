@@ -1,0 +1,4 @@
+# write filestamp file
+file = open("last.txt", "w")
+file.write(str(filestamp))
+file.close()

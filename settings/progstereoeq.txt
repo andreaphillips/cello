@@ -1,0 +1,10 @@
+volumeControlRegister: 3dB
+IIR_L1: lp:4000Hz, eq:32Hz:1:+.5dB, eq:64Hz:0.5:+1dB, eq:537Hz:3:-5dB, eq:1100Hz:1.5:-9dB, eq:2000Hz:1:-6dB, eq:350Hz:1:-5dB
+IIR_L2: mute
+IIR_L3: hp:4000Hz,vol:-11dB
+IIR_L4: mute
+IIR_R2: lp:4000Hz, eq:32Hz:1:+.5dB, eq:64Hz:0.5:+1dB, eq:537Hz:3:-5dB, eq:1100Hz:1.5:-9dB, eq:2000hz:1:-6dB, eq:350Hz:1:-5dB
+IIR_R1: mute
+IIR_R4: hp:4000Hz, vol:-3dB
+IIR_R3: mute
+
