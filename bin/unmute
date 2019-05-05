@@ -1,2 +1,2 @@
-sudo python /home/pi/scripts/unmute.py
-sudo python /home/pi/scripts/luzmute-off.py
+sudo python /home/pi/cello/scripts/unmute.py
+sudo python /home/pi/cello/scripts/luzmute-off.py

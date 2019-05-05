@@ -1,2 +1,2 @@
-sudo python /home/pi/scripts/mute.py
-sudo python /home/pi/scripts/luzmute-on.py
+sudo python /home/pi/cello/scripts/mute.py
+sudo python /home/pi/cello/scripts/luzmute-on.py

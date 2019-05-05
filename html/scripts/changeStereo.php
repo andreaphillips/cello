@@ -2,7 +2,7 @@
   function getStereoStatus()
   {
     $mono = exec('dsptoolkit get-volume');
-    $isMono = $mono == "Volume: 1.0000 / 100% / 0db";
+    $isMono = $mono == "Volume: 1.0000 / 100% / 1db";
     return $isMono;
   }
 

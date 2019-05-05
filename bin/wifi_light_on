@@ -1,1 +1,1 @@
-sudo python /home/pi/scripts/wifi-on.py
+sudo python /home/pi/cello/scripts/wifi-on.py
